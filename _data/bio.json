@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/janeljo.png",
     "email": "jmjoson@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "808-829-1515",
     "website": "https://janeljo.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -49,8 +49,8 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Answer phone calls and provide clear instruction to troubleshoot technology issues",
+        "Respond to email inquiries to offer additional tech support and accomodations"
       ]
     },
     {
@@ -58,11 +58,25 @@
       "position": "Student Coordinator/Outreach Worker (Office of Multicultural Student Serivces)",
       "website": "http://www.manoa.hawaii.edu/omsshui/",
       "startDate": "2022-12",
-      "endDate": "present",
+      "endDate": "Present",
+      "summary": "Hawaii Undergraduate Initiative (HUI) is a summer leadership program providing a free 3-credit summer college course for a select group of incoming freshmen at the University of Hawaii at Manoa. In addition to the summer course, HUI offers engaging and insightful workshops on using university resources, exploring academics/careers and developing writing/math skills. All HUI participating scholars will be paired with a Peer Mentor who will support and assist them in their transition from high school to college.",
+      "highlights": [
+        "Create recruitment media and advertisements for the HUI Summer Program to increase registration rates",
+        "Organize training activities for team of Peer Mentors",
+        "Promote campus events and resources to engage and assist first-year students"
+      ]
+    },
+    {
+      "company": "UNIQLO Hawaii",
+      "position": "Store Associate",
+      "website": "https://www.uniqlo.com/us/en/hawaii",
+      "startDate": "2021-12",
+      "endDate": "2022-04",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Supported customers in locating merchandise by maintaining a high-level of product knowledge",
+        "Assisted in floor moves, display maintenance, and housekeeping",
+        "Helped ring up sales and bag merchandise at POS machines"
       ]
     }
   ],
