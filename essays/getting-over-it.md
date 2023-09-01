@@ -11,8 +11,6 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/workout.jpg">
 
-*”Do something today that your future self will thank you for.”*
-
 ## Shiny and New
 
 In the brief time since my introduction to the wonderful creation that is Javascript, I’ve come to the conclusion that Javascript and I are going to be very good friends. Compared to the other programming languages in my repertoire, there’s an aspect of flexibility with this programming language that I find extremely refreshing and look forward to experimenting with. 
@@ -28,5 +26,7 @@ Admittedly, programming has always been more of a “sit, stare at a screen, and
 I realized just how crucial efficiency was during my first ever WOD (Workout of the Day; a class-adopted CrossFit term). Unsurprisingly, I experienced a bit of my usual test nerves and found myself having to repeatedly retype words that I mispelled or forgetting basic syntax, despite having been able to do these things correctly during practice WODs. And with the way my hands were shaking, you might have thought that I was taking a final exam. But no, I have now truly accepted that my Thursdays were no longer just “Thursdays” but rather WOD-days that I would have to train for and dedicate myself to. 
 
 I might have dramatized the experience, but this peek into my future with Javascript and athletic software engineering has only encouraged me to challenge myself and learn to be more confident in my decisions as a programmer. Though I expect to undergo some aches and pains, I’m looking forward to seeing a better version of myself by the end of it. 
+
+*”Do something today that your future self will thank you for.”*
 
 
