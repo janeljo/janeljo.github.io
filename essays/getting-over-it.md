@@ -9,13 +9,11 @@ labels:
   - Javascript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/workout.jpg">
 
 ## Shiny and New
 
 In the brief time since my introduction to the wonderful creation that is Javascript, I’ve come to the conclusion that Javascript and I are going to be very good friends. Compared to the other programming languages in my repertoire, there’s an aspect of flexibility with this programming language that I find extremely refreshing and look forward to experimenting with. There are still some quirks that I’ll need to adjust to. After becoming so used to the way other languages treat functions, Javascript’s first-class functions feel a bit like “cheating.” Perhaps, I’m just so early into my experience with this language that I’m in some kind of “honeymoon phase” where Javascript can do no wrong, but aside from my initial intimidations, I can seriously state that I wish I had picked it up sooner. 
-
-*”Do something today that your future self will thank you for.”*
 
 ## Changing My Mindset
 
@@ -27,4 +25,4 @@ I realized just how crucial efficiency was during my first ever WOD (Workout of 
 
 I might have dramatized the experience, but this peek into my future with Javascript and athletic software engineering has only encouraged me to challenge myself and learn to be more confident in my decisions as a programmer. Though I expect to undergo some aches and pains, I’m looking forward to seeing a better version of myself by the end of it. 
 
-
+*”Do something today that your future self will thank you for.”*
