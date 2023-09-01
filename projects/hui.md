@@ -12,7 +12,7 @@ labels:
 summary: "A student-led summer program and RIO at UH Manoa for first-year students graduating from Hawai'i high schools"
 ---
 
-<img class="img-fluid" src="../img/hui.jpg">
+<img width="300px" class="img-fluid" src="../img/hui.jpg">
 The Hawai'i Undergraduate Initiative (HUI) works to assist incoming UH Manoa freshmen with their transition to college life -- especially first generation students who may not be able to turn to their own networks for guidance. HUI provides free a free 3-credit summer college course to give students a heard start on their college experience, along with resource workshops, social activities, and peer mentor support.  
 
 I first joined the organization in 2021, during the summer of my freshman year, and though our summer program was held virtually, I found the experience to be invaluable in becoming aware of the resources available to me at UH Manoa. The post-class sessions also allowed me to meet my peers and make connections before even stepping on campus.
