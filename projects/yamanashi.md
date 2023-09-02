@@ -17,7 +17,7 @@ summary: "Japanese essay detailing the sights and attractions for the prefecture
   <img width="200px" src="../img/hoto.jpg" class="rounded float-start pe-4" >
 </div>
 
-For my Japanese class, one of our projects were to pick a prefecture in Japan and do research to find out what that prefecture is famous for. I was lucky enough to have visited Japan back in 2018, but I really only stayed in the Tokyo area so there was a lot I had not explored. Yamanashi stood out to me because of a really nice picture of Mount Fuji, taken at a popular tourist spot in the prefecture. The prospect of a future trip to Japan is really what motivates me to continue studying the language. 
+I was lucky enough to have visited Japan back in 2018, but I pretty much only stayed in the Tokyo area so there was a lot I hadn't gotten to explore. The prospect of a future trip to Japan is what motivates me to continue studying the language. While taking a Japanese class in Fall 2022, one of our projects was to pick a prefecture in Japan and do research to find out what that prefecture was famous for. A picture of Mount Fuji, taken at a popular tourist spot in the Yamanashi prefeture, caught my attention and so I decided to write about it for my project. 
 
 
 ## 山梨県  – リラクゼーションの県
