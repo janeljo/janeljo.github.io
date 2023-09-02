@@ -6,20 +6,18 @@ title: "Bank Database Application"
 date: 2022
 published: true
 labels:
-  - C++
+  - C
+  - Code Example
 summary: "A bank database application project developed in ICS 212."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This was a project that I worked on for my ICS 212 course during the Fall 2022 semester. The experience of programming in C felt quite laborous at times, especially with the Vi text editor.  
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+I think that the biggest benefit of this project was solidifying my understanding of pointers, which we had to work with a lot throughout the course. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Here is part of the project I had written in C:
 
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
+{% gist ba4942df80b78712d287165c2b075788 %}
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
