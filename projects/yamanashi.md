@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/fuji.jpg
 title: "Yamanashi: Prefecture of Relaxation"
 date: 2022
 published: true
@@ -12,14 +12,16 @@ summary: "Japanese essay detailing the sights and attractions for the prefecture
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/fuji.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/highland.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/hoto.png" class="img-thumbnail" >
 </div>
 
 For my Japanese class, one of our projects were to pick a prefecture in Japan and do research to find out what that prefecture is famous for. I was lucky enough to have visited Japan back in 2018, but I really only stayed in the Tokyo area so there was a lot I had not explored. Yamanashi stood out to me because of a really nice picture of Mount Fuji, taken at a popular tourist spot in the prefecture. The prospect of a future trip to Japan, and getting to see those views with my own eyes, is really what motivates me to continue studying the language. 
 
+
 ## 山梨県  – リラクゼーションの県
+
 
 富士山は観光客にもよく知られています。富士山を見たりしたいなら、山梨県に行くことをおすすめします。山梨は東京の西の方にあって、電車で１時間半ぐらいで行くことができます。天気は、だいたい涼しくていいです。雨が多いですが、よく降るので、きれいな滝があります。それに、きれいな温泉もあります。景色がとてもよくて、のんびりできる所です。ぜひ山梨に行ってみてください。
 
@@ -29,7 +31,9 @@ For my Japanese class, one of our projects were to pick a prefecture in Japan an
 
 山梨は本当にいい所だと思います。リラックスをしたいなら、ぜひ行ってみてください。色々なおもしろいことができるから、だれも楽しむと思います。
 
+
 *Rough English translation below:*
+
 
 Mount Fuji is well known to tourists, but if you want to see Mount Fuji, I recommend going to Yamanashi prefecture. Yamanashi is located west of Tokyo and can be reached in about an hour and a half by train. The weather is usually cool and nice. Since it often rains a lot, there are beautiful waterfalls. In addition, there is a beautiful not spring. It is a place where scenery is very good and you can relax. You should definitely visit Yamanashi. 
 
