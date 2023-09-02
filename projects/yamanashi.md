@@ -12,9 +12,9 @@ summary: "Japanese essay detailing the sights and attractions for the prefecture
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/fuji.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/highland.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/hoto.png" class="img-thumbnail" >
+  <img width="200px" src="../img/fuji.jpg" class="rounded float-start pe-4" >
+  <img width="200px" src="../img/highland.jpg" class="rounded float-start pe-4" >
+  <img width="200px" src="../img/hoto.jpg" class="rounded float-start pe-4" >
 </div>
 
 For my Japanese class, one of our projects were to pick a prefecture in Japan and do research to find out what that prefecture is famous for. I was lucky enough to have visited Japan back in 2018, but I really only stayed in the Tokyo area so there was a lot I had not explored. Yamanashi stood out to me because of a really nice picture of Mount Fuji, taken at a popular tourist spot in the prefecture. The prospect of a future trip to Japan, and getting to see those views with my own eyes, is really what motivates me to continue studying the language. 
