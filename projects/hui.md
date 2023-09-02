@@ -9,7 +9,7 @@ labels:
   - Summer Program
   - RIO
   - Website
-summary: "A student-led summer program and RIO at UH Manoa for first-year students graduating from Hawai'i high schools"
+summary: "A student-led summer program and RIO at UH Manoa for first-year students graduating from Hawai'i high schools."
 ---
 
 <img width="200px" class="img-fluid" src="../img/hui.jpg">
