@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Stuck in a loop"
+title: "Stuck in a Loop"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-01
 published: true
