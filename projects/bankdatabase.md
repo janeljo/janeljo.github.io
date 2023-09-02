@@ -11,7 +11,7 @@ labels:
 summary: "A bank database application project developed in ICS 212."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/bank.jpg">
 
 This was a project that I worked on for my ICS 212 course during the Fall 2022 semester. The experience of programming in C felt quite laborous at times, especially with the Vi text editor.  
 
