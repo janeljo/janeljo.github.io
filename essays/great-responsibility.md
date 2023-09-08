@@ -11,6 +11,8 @@ labels:
   - StackOverflow
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/responsibility.png">
+
 I, along with many other students who were born in the 21st century, have always had the option to turn to the internet for guidance. From researching biographies on noteworthy figures for history projects to finding tutorials on the best techniques to perfect a winged eyeliner, the internet has been an ever so valuable source of information. But not everyone is well-versed in the art of crafting a good question. 
 
 An example of a question asked in a helpful manner is [this post](https://stackoverflow.com/questions/18875649/starting-the-week-on-monday-with-isoweekday) to Stack Overflow, titled “Starting the week on Monday with isoWeekday().” The post is titled and tagged with relevant information (the Javascript programming language, Moment.js package, and isoWeekday() method) to make it easily identifiable to those who may be familiar with the topic and can provide assistance. The user seeking advice details their goal of creating a calendar that prints out weeks in a tabular format and that they specifically got stuck while trying to implement the isoWeekday method from Moment.js. To show that they put some effort into finding a solution prior to turning to the Stack Overflow community, they even included a link to the [documentation](https://momentjs.com/docs/?codekitCB=401206465.298830#/get-set/iso-weekday/) that they had previously referred to, which gives viewers a better understanding of what the user knows. 
