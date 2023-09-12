@@ -14,7 +14,7 @@ labels:
 
 ## Back in my day
 
-When I was still a wee elementary student, I got involved in my school’s FIRST LEGO League (FLL) robotics program. We constructed our robots out of LEGO parts and programmed them using simple block coding — it was real cute. I remember the satisfaction of watching our robot’s wheels spin and traverse the classroom floor. It was like finally being able to gaze upon a finished puzzle after hours of putting all the pieces together. Ever since that early exposure to programming, I knew that I wanted to work in tech. 
+When I was still a wee elementary student, I got involved in my school’s FIRST LEGO League (FLL) robotics program. We constructed our robots out of LEGO parts and programmed them using simple block coding — it was really cute. I remember the satisfaction of watching our robot’s wheels traverse the classroom floor and feeling like I had outdone all of NASA's space rovers. Ever since that early exposure to programming, I knew that I wanted to work in tech. 
 
 ## Endless possibilities await 
 
