@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/workout.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/handcuffs.jpg">
 
 ## Deep Clean
 Right before the fall semester started, I did a deep clean of my bedroom. I had finally picked up the stray clothes off the floor, put books back in their shelves, vacuumed, dusted — the whole nine yards. As I stood in my now spotless room, which suddenly felt way bigger and brighter than it had the day before, I couldn’t help but think, *“Was I really living like that for the entire summer?”*
