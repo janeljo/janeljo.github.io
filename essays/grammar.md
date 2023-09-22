@@ -4,7 +4,7 @@ type: essay
 title: "Grammar"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-21
-published: false
+published: true
 labels:
   - Javascript
 ---
