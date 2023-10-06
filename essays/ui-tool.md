@@ -25,9 +25,10 @@ After my first few class assignments of recreating retail and restaurant website
 
 *Original on the left, recreations on the right.*
 
-<img width="400px" class="rounded float-start py-4" src="../img/original1.png"><img width="400px" class="rounded float-start pe-4" src="../img/recreation1.png">
-<img width="400px" class="rounded float-start py-4" src="../img/original2.png"><img width="400px" class="rounded float-start pe-4" src="../img/recreation2.png">
-<img width="400px" class="rounded float-start py-4" src="../img/original3.png"><img width="400px" class="rounded float-start pe-4" src="../img/recreation3.png">
+<img width="350px" class="rounded float-start py-4" src="../img/original1.png"><img width="350px" class="rounded float-start pe-4" src="../img/recreation1.png"><br>
+<img width="350px" class="rounded float-start py-4" src="../img/original2.png"><img width="350px" class="rounded float-start pe-4" src="../img/recreation2.png"><br>
+<img width="350px" class="rounded float-start py-4" src="../img/original3.png"><img width="350px" class="rounded float-start pe-4" src="../img/recreation3.png"><br>
 
 
+<br>
 Though it can be easy to get lost in the “divs” and “classes” of it all, I think that UI frameworks are an extremely useful tool for beginning web developers to make effective websites. I think that the best way to figure out why certain elements work the way they do, is not by just reading the documentation, but really taking time to inspect any examples of these UI frameworks in action and finding ways to incorporate them into your own projects. 
