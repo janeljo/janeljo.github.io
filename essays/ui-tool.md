@@ -32,3 +32,39 @@ Though it can be easy to get lost in the “divs” and “classes” of it all,
 <img width="350px" class="rounded float-start py-4" src="../img/original3.png"><img width="350px" class="rounded float-start pe-4" src="../img/recreation3.png"><br>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
