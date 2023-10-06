@@ -23,12 +23,12 @@ That being said, for a beginner with limited patience, HTML and CSS can be quite
 ## Frameworks in action
 After my first few class assignments of recreating retail and restaurant websites, I began to recognize how common and reused the website layouts were. In my opinion, that’s not a bad thing at all.  There’s no need to reinvent the wheel. For one of my assignments, I chose to study and recreate the [BaS Bookshop website](https://basbookshop.com/). Using Bootstrap's pre-built components, like navigation bars, buttons, and icons allowed me to worry less about how I was going to create each element and focus more on getting those elements were I wanted them to be. And I saw that by utilizing a simple and universally understood layout, it was easier to get a sense of each company from their branding and content rather than their fancy web designs.  
 
-*Original on the left, recreations on the right.*
+Though it can be easy to get lost in the “divs” and “classes” of it all, I think that UI frameworks are an extremely useful tool for beginning web developers to make effective websites. I think that the best way to figure out why certain elements work the way they do, is not by just reading the documentation, but really taking time to inspect any examples of these UI frameworks in action and finding ways to incorporate them into your own projects. 
+
+*Screenshots of original website, followed by recreation.*
 
 <img width="350px" class="rounded float-start py-4" src="../img/original1.png"><img width="350px" class="rounded float-start pe-4" src="../img/recreation1.png"><br>
 <img width="350px" class="rounded float-start py-4" src="../img/original2.png"><img width="350px" class="rounded float-start pe-4" src="../img/recreation2.png"><br>
 <img width="350px" class="rounded float-start py-4" src="../img/original3.png"><img width="350px" class="rounded float-start pe-4" src="../img/recreation3.png"><br>
 
 
-<br>
-Though it can be easy to get lost in the “divs” and “classes” of it all, I think that UI frameworks are an extremely useful tool for beginning web developers to make effective websites. I think that the best way to figure out why certain elements work the way they do, is not by just reading the documentation, but really taking time to inspect any examples of these UI frameworks in action and finding ways to incorporate them into your own projects. 
