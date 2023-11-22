@@ -11,7 +11,7 @@ labels:
   - Github Co-Pilot
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/ai.png">
 
 ## I. Introduction
 
@@ -31,7 +31,7 @@ When it comes to school assignments, the biggest hurdle to get over is typically
 10. **Explaining code:** Any explanations that I needed were usually in the documentation or found through a Google search. I didn’t really try to use ChatGPT for this.
 11. **Writing code:** I recently started using Github Co-Pilot to auto complete some of my work in the final project. I’ve also tried to use ChatGPT for tasks like overriding Bootstrap CSS with a custom stylesheet file, but the code suggestion it gave didn’t solve the issue so I resorted to Googling my issue for help.
 12. **Documenting code:** I usually wrote the documentation by myself since I hadn’t thought of using ChatGPT to do it for me, but I probably will going forward.
-13. **Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”:** I would Google my issue and since I ran into typical problems, I would get helpful results.
+13. **Quality assurance e.g. “What’s wrong with this code” or “Fix the ESLint errors”:** Instead of submitting code to an AI technology, I preferred to Google my issue. Since most of the problems that I ran into were typical and common, the results would be sufficient in helping me troubleshoot.
 14. **Other uses in ICS 314 not listed:** For the professional portfolio, I copy-and-pasted my previous resume into ChatGPT to rephrase some job descriptions. 
 
 ## III. Impact on Learning and Understanding
