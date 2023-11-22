@@ -11,7 +11,7 @@ labels:
   - Github Co-Pilot
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/ai.png">
+<img width="1500px" class="rounded float-start pe-4" src="../img/ai.png">
 
 ## I. Introduction
 
