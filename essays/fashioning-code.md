@@ -10,7 +10,7 @@ labels:
   - Fashion
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/fashion.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/fashion.jpg">
 
 ## Runways and Repositories
 
