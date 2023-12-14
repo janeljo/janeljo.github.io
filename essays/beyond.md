@@ -7,10 +7,10 @@ date: 2023-12-13
 published: true
 labels:
   - Reflection
-  - Fashion
+  - Coding Standards
+  - Agile
+  - Ethics
 ---
-
-<img width="500px" class="rounded float-start pe-4" src="../img/fashion.jpg">
 
 Software engineering is more than just learning programming languages and designing user interfaces. Adopting various disciplines can truly excel your development and elevate your skill set. 
 
