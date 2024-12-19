@@ -18,5 +18,5 @@ There were a lot of ways that this course expanded my knowledge and view of soft
 
 Throughout the project, we were able to use the tools we were introduced to ICS 314, like the Meteor framework and React library, to build even more complex applications with greater capabilities. We were given a lot of freedom in how we implemented the clients’ vision and how we worked with our team members. Overall, I think that this course gave me a lot of insight into what real-world project development looks like outside of the classroom, and I’m grateful for the experience. 
 
-
+<img width="500px" class="rounded float-start pe-4" src="../img/landing.png">
 
