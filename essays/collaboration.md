@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Going Beyond"
+title: "Lessons in Collaboration and Code"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-18
 published: true
 labels:
   - Reflection
-  - Coding Standards
   - Group Project
 ---
 
