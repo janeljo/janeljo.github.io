@@ -3,24 +3,21 @@ layout: essay
 type: essay
 title: "Going Beyond"
 # All dates must be YYYY-MM-DD format!
-date: 2023-12-13
+date: 2024-12-18
 published: true
 labels:
   - Reflection
   - Coding Standards
-  - Agile
-  - Ethics
+  - Group Project
 ---
 
-Software engineering is more than just learning programming languages and designing user interfaces. Adopting various disciplines can truly excel your development and elevate your skill set. 
+We started the semester being split into assigned teams and given the premise of the project objectives. This was different from many of my other experiences with group projects, where we’d often select our team members or at least give our input on who we wanted to work with. Though I hadn’t expected this, I think the opportunity to collaborate with peers we haven’t worked with before was a very valuable real-world experience. The goal of the semester was to create a web application for Spire Hawaii, a local accounting and advisory services firm, that would allow their users to visualize financial projections based on their data input — hence the name of our project group “Visualizing Your Future.” 
 
-## Coding Standards
-The use of ESLint throughout the semester was definitely something to get used to, but the growing pains are well worth it. I feel that learning to adapt to coding standards really improved the way that I think about programming. I have become more conscious of what my code is doing in each line and I’m able to analyze its effectiveness at a glance. In a group project, having all team members comply to the same coding standards made it extremely easy to build off of each other's work and make suggestions where needed. At this point, the practices instilled by the use of ESLint has consistently improved the quality of my work, which would otherwise be disorganized and unreadable. 
+For the next 16 weeks, we utilized GitHub’s project management software, including milestone project boards where tasks (like developing features of the site or reviewing the standing code) could be assigned, tracked, and managed. I found that code reviews, while seemingly mundane or pesky, were extremely helpful in cleaning and clarifying our work. In the future, I can see myself returning to the IDPM review process and checklists to ensure that my code is effectively written. It was also important to have many people review the code using the same checklists so that repeated points of improvement could be highlighted, while less obvious or important suggestions could still be brought up with so many eyes on the project.  
 
-## Agile Project Management
-Agile project management provides the structure and stability to allow a project to effectively go from an idea to full fruition. It keeps all members on the same page in terms of project goals, work expectations, and progress. For my group’s final project, we utilized issue-driven project management (IDPM) which entailed scheduled biweekly meetings, 72-hour work sprints, milestone “deliverables,” and GitHub organization. This process kept each of us accountable and made it easy to communicate our ideas and concerns.
+There were a lot of ways that this course expanded my knowledge and view of software engineering. In comparison to my first project experience, in ICS 314, having all teams work on the same project was very interesting because we were able to see the different approaches and style choices each team made. Milestone presentations, especially those with the Spire Hawaii clients in attendance, really emphasized the importance of having effective demonstrations that showed the progress we made, allowed the clients to share their feedback, and enabled all of us to communicate the direction that we should be taking the project in.  
 
-## Ethics in Software Engineering
-Several video games have become controversial due to portrayals of violence and concerns around the promotion of gambling. News of companies experiencing data breaches and consumers suffering from their compromised information is a common headline. As AI progresses, the industry is scrutinized for allowing people’s works and likeness to be used by the generative software without their consent. With simple, beginner projects, contemplating the ethics of your work may not be the biggest concern. What harm can come from a text-based tic-tac-toe game? But as projects move from your own computer to the world wide internet, it’s important to consider what the software we make is capable of. 
+Throughout the project, we were able to use the tools we were introduced to ICS 314, like the Meteor framework and React library, to build even more complex applications with greater capabilities. We were given a lot of freedom in how we implemented the clients’ vision and how we worked with our team members. Overall, I think that this course gave me a lot of insight into what real-world project development looks like outside of the classroom, and I’m grateful for the experience. 
+
 
 
