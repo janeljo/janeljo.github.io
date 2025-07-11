@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Janel Joson",
-    "label": "Student",
+    "label": "Full Stack Software Engineer | UH Mānoa CS Alumni | Passionate about Web Development & User Experience",
     "picture": "https://github.com/janeljo.png",
     "email": "jmjoson@hawaii.edu",
     "phone": "808-829-1515",
     "website": "https://janeljo.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "I've studied Computer Science at the University of Hawaiʻi at Mānoa, graduated Spring 2025, with hands-on experience building responsive web applications and working in Agile teams. I enjoy designing efficient, user-centered software and am excited to contribute to meaningful projects.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "janeljo", "url": "http://github.com/janeljo" },
@@ -15,8 +15,8 @@
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "UX Design" },
-    { "name": "Web Development" }
+    { "name": "Web Development" },
+    { "name": "User Experience Design" }
   ],
   "skills": [
     {
@@ -31,10 +31,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2021-07-06",
-      "endDate": "Present",
+      "endDate": "May 2025",
       "courses": [
       ]
     }
