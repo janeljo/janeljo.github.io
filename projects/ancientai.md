@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ancient-ai.png
+image: img/ancientai.jpg
 title: Ancient AI — Translating Yesterday’s Ink with Tomorrow’s Tech
 date: 2025
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: Developed a custom AI model and web application to transcribe 19th-century Marshallese handwritten documents into searchable text for historical research.
 ---
 
-<img width="200px" class="img-fluid" src="../img/ancientai.png">
+<img width="500px" class="img-fluid" src="../img/ancientai_ex.png">
 
 Ancient AI is an interdisciplinary capstone project aimed at making 19th-century Marshallese handwritten letters accessible to historians and researchers. Sponsored by Dr. Monica LaBriola, our team developed a streamlined, user-friendly web application powered by a custom-trained AI model to transcribe scanned documents into searchable, tagged text.
 
@@ -28,4 +28,5 @@ Key contributions:
 This project underscored the potential of AI and computer science to preserve cultural heritage and support interdisciplinary collaboration.
 
 [Project Poster (PDF)](https://docs.google.com/presentation/d/1PXAVPAcKaz0MLuAdCql_ePpiDaKpblEm/edit?usp=sharing&ouid=111344004228946492199&rtpof=true&sd=true) 
+
 [Project Updates](https://gahdez14.github.io/HistoryTranscriptProject.html)
