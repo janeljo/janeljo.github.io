@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/hui.jpg
 title: "Hawai'i Undergraduate Initiative Website Refresh"
-date: 2021
+date: 2024
 published: true
 labels:
   - Web Development
