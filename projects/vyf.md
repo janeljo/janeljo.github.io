@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ccc.png
+image: img/vyf.png
 title: "Visualizing Your Future"
 date: 2024
 published: true
