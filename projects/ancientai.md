@@ -12,7 +12,7 @@ labels:
 summary: Developed a custom AI model and web application to transcribe 19th-century Marshallese handwritten documents into searchable text for historical research.
 ---
 
-<img width="200px" class="img-fluid" src="../img/ancienai.png">
+<img width="200px" class="img-fluid" src="../img/ancientai.png">
 
 Ancient AI is an interdisciplinary capstone project aimed at making 19th-century Marshallese handwritten letters accessible to historians and researchers. Sponsored by Dr. Monica LaBriola, our team developed a streamlined, user-friendly web application powered by a custom-trained AI model to transcribe scanned documents into searchable, tagged text.
 
