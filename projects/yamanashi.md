@@ -4,7 +4,7 @@ type: project
 image: img/fuji-square.jpg
 title: "Yamanashi: Prefecture of Relaxation"
 date: 2022
-published: true
+published: false
 labels:
   - Japanese
   - Travel
