@@ -9,17 +9,27 @@ labels:
   - Web Application
   - Recipes
   - Community
-summary: "My group developed a web application to connect college students to simple recipes."
+summary: "Developed a web application that helps college students discover and share quick, healthy, and budget-friendly recipes tailored to limited resources and dietary needs."
 ---
 
 <div class="text-center p-4">
   <img width="500px" src="../img/ccc_home.png" class="img-thumbnail" >
 </div>
 
-My group's web application, [College Cuisine Connect](https://collegecuisineconnect.site/) aims to address the unique culinary needs of college students. The system provides a centralized platform that curates a diverse range of recipes tailored to the specific needs and constraints of college life. Recognizing that many students may have limited access to a fully equipped kitchen or face time constraints, College Cuisine Connect emphasizes recipes that are not only nutritious but also quick, budget-friendly, and easy to execute.
+[College Cuisine Connect](https://es6-enthusiasts.github.io/CollegeCuisineConnect/) is a web application designed to help college students with limited cooking skills, time, and resources discover healthy, affordable, and easy-to-make recipes. Through a user-friendly interface, students can browse a curated collection of recipes tailored to dorm life — emphasizing microwave- and toaster oven-friendly meals — and even contribute their own. The platform accommodates dietary preferences, allergies, and restrictions, fostering inclusivity and a supportive culinary community.
+
+  Notable features include:
+  - Curated recipe catalog for college-friendly meals.
+  - User contribution feature to share recipes.
+  - Consideration of dietary restrictions and preferences.
+  - Responsive, accessible design with feedback-driven improvements.
+  - Deployed using Meteor and integrated with GitHub Actions for CI.
 
 Through a user-friendly interface, students can explore a variety of recipes, ranging from simple microwave-based meals to those requiring minimal cooking equipment. The platform also takes into consideration dietary preferences, allergies, and restrictions to ensure inclusivity and accommodate diverse needs within the UH community.
 
-For this project, I worked with a wonderful group of classmates to form the ["ES6 Enthusiasts"](https://es6-enthusiasts.github.io/) based on our shared love for [ECMAScript 6](https://en.wikipedia.org/wiki/ECMAScript) (and the somewhat similar sounding [linting tool](https://en.wikipedia.org/wiki/ESLint)). We developed a team contract, organized a meeting schedule, and utilized issue-driven project management practices to collaborate effectively. This was the first group project I had ever done in a computer science class that involved coding, and I found the whole experience to be extremely fun and rewarding. 
+This project was a cumulative assignment for my Software Engineering I (ICS 314) coursework. I worked with a wonderful group of classmates to form the ["ES6 Enthusiasts"](https://es6-enthusiasts.github.io/) based on our shared love for [ECMAScript 6](https://en.wikipedia.org/wiki/ECMAScript) (and the somewhat similar sounding [linting tool](https://en.wikipedia.org/wiki/ESLint)). This was the first group project I had ever done in a computer science class that involved coding, and I found the whole experience to be extremely fun and rewarding.  We maintained a team contract, managed milestones and tasks via GitHub Projects, and deployed the application to Digital Ocean with continuous integration workflows. My responsibilities included coordinating development tasks, implementing core features, and ensuring code quality and functionality.
 
-You can learn more at our [project Github page](https://es6-enthusiasts.github.io/CollegeCuisineConnect/). Special thanks to Loelle, Bill, Juliette, and Kyla for being such a delight to collaborate with! 
+I’m proud to have worked with such a talented team — special thanks to Loelle, Bill, Juliette, and Kyla for making this a fun and rewarding experience.
+
+[Project Github Page](https://es6-enthusiasts.github.io/CollegeCuisineConnect/).  
+
