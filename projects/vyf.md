@@ -13,7 +13,7 @@ summary: "Built a financial visualization web application for Spire Hawaii LLP, 
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/ccc_home.png" class="img-thumbnail" >
+  <img width="500px" src="../img/vyf_landing.png" class="img-thumbnail" >
 </div>
 
 [Visualizing Your Future](https://visualizing-your-future.github.io/) is a web application developed for [Spire Hawaii LLP](https://www.spirehi.com/) to help clients visualize financial projections based on their input data. Designed to meet the needs of an accounting and advisory firm, the app provides an intuitive platform where clients can enter budgets, view profit & loss statements, and analyze data through interactive, impactful charts and tables.
