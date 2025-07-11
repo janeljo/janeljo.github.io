@@ -3,7 +3,7 @@
     "name": "Janel Joson",
     "label": "Full Stack Software Engineer | UH Mānoa CS Alumni | Passionate about Web Development & User Experience",
     "picture": "https://github.com/janeljo.png",
-    "email": "jmjoson@hawaii.edu",
+    "email": "janeljoson@gmail.com",
     "phone": "808-829-1515",
     "website": "https://janeljo.github.io",
     "summary": "Studied Computer Science at the University of Hawaiʻi at Mānoa and graduated in Spring 2025, with hands-on experience building responsive web applications and working in Agile teams. I enjoy designing efficient, user-centered software and am excited to contribute to meaningful projects.",
@@ -14,77 +14,86 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
     { "name": "Web Development" },
-    { "name": "User Experience Design" }
+    { "name": "User Experience Design" },
+    { "name": "Community Engagement" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Python", "Javascript" ]
+      "name": "Tools & Platforms",
+      "keywords": [ "Git", "Postman", "Twilio", "Azure DevOps", "Configuration Management", "Agile methodologies" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "name": "Web Development",
+      "keywords": [ "Responsive Design", "REST APIs", "Accessibility", "Testing & Debugging" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaiʻi at Mānoa",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2021-07-06",
-      "endDate": "May 2025",
+      "startDate": "2021-08",
+      "endDate": "2025-05",
       "courses": [
+        "Algorithms", "Software Engineering", "Database Systems", "Operating Systems",
+        "Big Data Analytics", "Data Networks", "Data Science", "Human-Computer Interaction", "Capstone Project"
+      ],
+      "honors": [
+        "Provost Achievement Scholarship (2021–2025)",
+        "Manoa Scholars Club"
       ]
     }
   ],
   "work": [
+  {
+      "company": "Piʻikū Co. / Zippy’s",
+      "position": "Software Engineering Intern",
+      "website": "https://www.zippys.com",
+      "startDate": "2025-03",
+      "endDate": "2025-06",
+      "summary": "Contributed to Zippy’s website redevelopment through Piʻikū Co., a workforce development non-profit, building production-level features for a popular Hawaiʻi restaurant chain.",
+      "highlights": [
+        "Developed dynamic front-end components using ReactJS and Java.",
+        "Integrated RESTful APIs for real-time restaurant menus, orders, and customer data.",
+        "Tested and debugged API responses for seamless front-end/back-end interaction.",
+        "Modified configuration files to automate email notifications with Twilio.",
+        "Collaborated in Agile sprints with engineers, designers, and product managers.",
+        "Utilized Azure DevOps pipelines to deploy and review code."
+      ]
+    },
     {
       "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "position": "Senior IT Student Assistant, Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2022-07",
-      "endDate": "Present",
-      "summary": "",
+      "endDate": "2025-05",
+      "summary": "Provided technical support to students and staff at UH Mānoa, resolving hardware, software, and network issues.",
       "highlights": [
-        "Answer phone calls and provide clear instruction to troubleshoot technology issues",
-        "Respond to email inquiries to offer additional tech support and accomodations"
+        "Troubleshot and documented solutions for technical issues via phone and email.",
+        "Escalated complex problems to appropriate teams ensuring excellent service."
       ]
     },
     {
-      "company": "Hawai'i Undergraduate Initiative",
-      "position": "Student Coordinator/Outreach Worker (Office of Multicultural Student Serivces)",
+      "company": "Office of Multicultural Student Services, UH Mānoa",
+      "position": "Student Coordinator, Outreach Worker",
       "website": "http://www.manoa.hawaii.edu/omsshui/",
       "startDate": "2022-12",
-      "endDate": "Present",
-      "summary": "Hawaii Undergraduate Initiative (HUI) is a summer leadership program providing a free 3-credit summer college course for a select group of incoming freshmen at the University of Hawaii at Manoa. In addition to the summer course, HUI offers engaging and insightful workshops on using university resources, exploring academics/careers and developing writing/math skills. All HUI participating scholars will be paired with a Peer Mentor who will support and assist them in their transition from high school to college.",
+      "endDate": "2025-05",
+      "summary": "Supported the Hawaiʻi Undergraduate Initiative (HUI), a summer leadership and transition program for incoming UH freshmen.",
       "highlights": [
-        "Create recruitment media and advertisements for the HUI Summer Program to increase registration rates",
-        "Organize training activities for team of Peer Mentors",
-        "Promote campus events and resources to engage and assist first-year students"
-      ]
-    },
-    {
-      "company": "UNIQLO Hawaii",
-      "position": "Store Associate",
-      "website": "https://www.uniqlo.com/us/en/hawaii",
-      "startDate": "2021-12",
-      "endDate": "2022-04",
-      "summary": "",
-      "highlights": [
-        "Supported customers in locating merchandise by maintaining a high-level of product knowledge",
-        "Assisted in floor moves, display maintenance, and housekeeping",
-        "Helped ring up sales and bag merchandise at POS machines"
+        "Maintained and updated the HUI website ensuring accessibility and fresh content.",
+        "Created recruitment materials to increase program awareness and registration.",
+        "Organized peer mentor training and promoted events to engage first-year students."
       ]
     }
   ],
   "awards": [
     {
       "title": "Provost Achievement Scholarship",
-      "date": "2021-Present",
-      "awarder": "University of Hawai'i at Manoa",
-      "summary": "Scholarships awarded by the Office of Admissions to high-achieving Hawaiʻi high school graduates."
+      "date": "2021–2025",
+      "awarder": "University of Hawaiʻi at Mānoa",
+      "summary": "Awarded by the Office of Admissions to high-achieving Hawaiʻi high school graduates."
     }
   ],
   "references": [
