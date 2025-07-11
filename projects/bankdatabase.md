@@ -4,7 +4,7 @@ type: project
 image: img/bank-square.jpg
 title: "Bank Database Application"
 date: 2022
-published: true
+published: false
 labels:
   - C
   - Code Example
